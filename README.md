@@ -1,0 +1,2 @@
+# Hand-gestured-control-car
+The idea is to implement a glove that can be worn by the user in his hand in order to control the vehicle. User can control the car direction whether right or left just by tilting his hand in free space. The device also haves 3 speed motor, user can speed up by bending his finger and he can go backward by bending 2 fingers. The device is completely wireless thus no wired connection to the car will take place.
